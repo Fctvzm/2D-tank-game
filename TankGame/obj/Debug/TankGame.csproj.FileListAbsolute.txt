@@ -1,0 +1,9 @@
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\bin\Debug\TankGame.exe.config
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\bin\Debug\TankGame.exe
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\bin\Debug\TankGame.pdb
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\obj\Debug\TankGame.csprojResolveAssemblyReference.cache
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\obj\Debug\TankGame.Form1.resources
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\obj\Debug\TankGame.Properties.Resources.resources
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\obj\Debug\TankGame.csproj.GenerateResource.Cache
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\obj\Debug\TankGame.exe
+C:\Users\Assem\Documents\Visual Studio 2015\Projects\TankGame\TankGame\obj\Debug\TankGame.pdb
